@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shu-69
 - 👀 I’m interested in Competative Coding
-- 🌱 I’m currently learning C++ && JAVA
+- 🌱 I’m currently learning C++ &&  JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta@shubhamartistindia
 
